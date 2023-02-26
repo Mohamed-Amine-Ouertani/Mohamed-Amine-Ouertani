@@ -1,4 +1,4 @@
-Hi ![]My name is Mohamed Amine Ouertani
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Amine Ouertani
 ==============================================================================================================================================
 
 Backend Developer specializing in scalable and secure web applications with LNPP stack and Django Framework
