@@ -9,7 +9,7 @@ Mohamed Amine Ouertani
 Backend Developer specializing in scalable and secure web applications with LNPP stack and Django Framework
 -----------------------------------------------------------------------------------------------------------
 
-Hello and welcome to my GitHub profile! My name is <strong><em>Mohamed Amine Ouertani</em></strong>, and I am a self-taught backend developer specializing in developing scalable and secure web applications using the LNPP stack (Linux, Nginx, PostgreSQL, Python) with the Django web framework. With experience in developing RESTful APIs, optimizing database performance, and implementing security measures, I am passionate about solving complex problems and delivering high-quality work based on efficient, reliable, and maintainable code.
+<strong>H</strong>ello and welcome to my GitHub profile! My name is <strong><em>Mohamed Amine Ouertani</em></strong>, and I am a self-taught backend developer specializing in developing scalable and secure web applications using the LNPP stack (Linux, Nginx, PostgreSQL, Python) with the Django web framework. With experience in developing RESTful APIs, optimizing database performance, and implementing security measures, I am passionate about solving complex problems and delivering high-quality work based on efficient, reliable, and maintainable code.
 
 I have worked on various web applications, including a real-time chat application and a web-based inventory management system. My passion for troubleshooting systems and solving engineering problems has helped me overcome challenges and develop software that meets the needs of end-users. 
 
