@@ -14,15 +14,15 @@ Hello and welcome to my GitHub profile! My name is Mohamed Amine Ouertani, and I
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,nginx,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,nginx,linux&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker&theme=dark&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq&theme=dark&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
 
 
 
