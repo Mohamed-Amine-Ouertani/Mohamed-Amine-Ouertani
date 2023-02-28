@@ -20,8 +20,9 @@ Hello and welcome to my GitHub profile! My name is Mohamed Amine Ouertani, and I
 
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=2)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=redis,rebbitmq&theme=dark&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq&theme=dark&perline=2)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=2)](https://skillicons.dev)
 
 
 
