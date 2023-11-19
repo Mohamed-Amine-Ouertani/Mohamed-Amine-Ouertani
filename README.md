@@ -13,10 +13,10 @@ Mohamed Amine Ouertani
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬: Python (programming language) | Django (framework) | PostgreSQL | Git | GitHub (version control) | Docker | Kubernetes | GitLab (Continuous Integration/Continuous Delivery) | AWS (Cloud Computing).
 
-𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
-⚫ As a DevOps Engineer Intern, my CI/CD pipeline best practices have led to a 20% faster deployment.
-⚫ Currently, I'm actively developing a web-based bug tracking system called BugiNova.
-⚫ I have also successfully developed a library web application called Local Library.
+𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:<br>
+⚫ As a DevOps Engineer Intern, my CI/CD pipeline best practices have led to a 20% faster deployment.<br>
+⚫ Currently, I'm actively developing a web-based bug tracking system called BugiNova.<br>
+⚫ I have also successfully developed a library web application called Local Library.<br>
 
 I am enthusiastic about opportunities and challenges in the tech industry that allow me to practice my proficiency with APIs, automation, and cloud computing while leveraging my existing knowledge in maintaining server-side operations.
 
