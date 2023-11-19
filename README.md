@@ -32,9 +32,11 @@ Thank you for visiting!
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,redis&theme=dark)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
+
 
 
 
