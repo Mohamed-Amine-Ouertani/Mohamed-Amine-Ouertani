@@ -25,12 +25,11 @@ If you are interested in my work or have a project you would like to discuss, pl
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,redis&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker&theme=dark)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,ansible,doker,linux" />
+  </a>
+</p>
 
 
 
