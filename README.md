@@ -23,9 +23,7 @@ If you are interested in my work or have a project you would like to discuss, pl
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ouertani.m.amine@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ouerteni)
 
-<p align="center">
 ### Skills
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
