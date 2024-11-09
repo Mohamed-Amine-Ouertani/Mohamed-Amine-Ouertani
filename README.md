@@ -27,7 +27,7 @@ If you are interested in my work or have a project you would like to discuss, pl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,ansible,doker,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,ansible,docker,linux" />
   </a>
 </p>
 
